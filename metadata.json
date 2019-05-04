@@ -2,9 +2,9 @@
 	"author": "BlThemes",
 	"email": "",
 	"website": "http://blthemes.pp.ua/",
-	"version": "3.1.0",
-	"releaseDate": "2018-11-29",
+	"version": "3.8.1",
+	"releaseDate": "2018-05-02",
 	"license": "MIT",
-	"compatible": "3.4",
+	"compatible": "3.8.1",
 	"notes": ""
 }
